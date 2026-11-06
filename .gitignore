@@ -1,0 +1,6 @@
+session.json
+.video_cache/
+__pycache__/
+*.pyc
+.DS_Store
+my_moments_*.json
